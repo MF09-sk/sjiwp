@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Redaction+10:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    background-color: #a67429;
+    font-family: "Redaction 10", sans-serif;
+}
+
+a {
+    color: #e7c685;
+    text-decoration: none;
+    text-align: center;
+}
+
+h1  {
+    color: #ebd9c1;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2;
+}
+p{
+    letter-spacing: 1.6;
+}
+
+h2 {
+    color: #fefefe;
+    text-align: center;
+
+}
+
+.redaction-10-regular {
+    font-family: "Redaction 10", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .redaction-10-bold {
+    font-family: "Redaction 10", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .redaction-10-regular-italic {
+    font-family: "Redaction 10", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
